@@ -1,0 +1,18 @@
+{
+  "--palette-primary": "#E87722",
+  "--palette-primary-hover": "#D3691A",
+  "--palette-secondary": "#333333",
+  "--palette-dark": "var(--palette-secondary)",
+  "--icon-link-color": "var(--palette-primary)",
+  "--alert-bg-color": "#fff5e0",
+  "--alert-color": "#825f00",
+  "--banner-button-bg-color": "var(--palette-primary)",
+  "--banner-button-hover": "var(--palette-primary)",
+  "--imageposter-button-bg-color": "var(--palette-primary)",
+  "--imageposter-button-hover": "var(--palette-primary)",
+  "--highlights-button-bg-color": "var(--palette-light)",
+  "--highlights-button-color": "var(--palette-link)",
+  "--highlights-button-hover": "var(--palette-light)",
+  "--linkcard-button-bg-color": "#007897",
+  "--linkcard-button-hover": "#007897"
+}

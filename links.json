@@ -1,0 +1,174 @@
+{
+  "Livewell": {
+    "headline": "LiveWell",
+    "title": "Life, Family & Relationships",
+    "subtitle": "Life is change - find resources here to focus on your family, \n friends, and fortunes! Build resiliency. Grow or end relationships. Stay safe.\n Support your community or serve your country. Which content centers below are for you?",
+    "list": [
+      {
+        "section": "Relationships",
+        "links": [
+          {
+            "id": "link01",
+            "subcategory": "Committed Relationships"
+          },
+          {
+            "id": "link02",
+            "subcategory": "Lesbian, Gay, Bisexual & Transgender",
+            "title": "If you are a lesbian, gay, bisexual, transgender, or questioning your sexuality, the way you live and love isn't always reflected in mainstream culture.",
+            "subtitle": "Do you have concerns about coming out? \n Perhaps a loved one has just told you that they are homosexual or bisexual? \n How do you show support or understand their sexuality? \n  The resources below address these issues and more.",
+            "moreLabel": "More",
+            "topics": [
+              {
+                "id": "topic01",
+                "text": "A Courageous Move! Coming Out is Not Easy For Anyone",
+                "buttonLabel": "Read Article"
+              },
+              {
+                "id": "topic02",
+                "text": "Answers To Your Questions About Transgender People, Gender Identity, and Gender Expression",
+                "buttonLabel": "Watch Video"
+              },
+              {
+                "id": "topic03",
+                "text": "Suggested Reading: Transgender Persons and their Families",
+                "buttonLabel": "View Webinar"
+              },
+              {
+                "id": "topic04",
+                "text": "  That's So Gay - Is Not OK. It is Derogatory",
+                "buttonLabel": "Read Article"
+              },
+              {
+                "id": "topic05",
+                "text": "Opening the Straight Spouse's Closet",
+                "buttonLabel": "Read PDF"
+              },
+              {
+                "id": "topic06",
+                "text": "Coming Out When You're in the Military",
+                "buttonLabel": "Play Podcast"
+              },
+              {
+                "id": "topic07",
+                "text": "Sample Video Topic",
+                "buttonLabel": "Watch Video"
+              },
+              {
+                "id": "topic08",
+                "text": "with Image About Transgender People, Gender Identity, and Gender Expression",
+                "buttonLabel": "Read Article"
+              }
+            ]
+          },
+          {
+            "id": "link03",
+            "subcategory": "Dating"
+          },
+          {
+            "id": "link04",
+            "subcategory": "Separation & Divorce"
+          }
+        ]
+      },
+      {
+        "section": "Family: Beginning a Family",
+        "links": [
+          {
+            "id": "link01",
+            "subcategory": "Pregnancy & Birth"
+          }
+        ]
+      },
+      {
+        "section": "Family: Parenting",
+        "links": [
+          {
+            "id": "link01",
+            "subcategory": "Blended Family"
+          },
+          {
+            "id": "link02",
+            "subcategory": "Childcare"
+          },
+          {
+            "id": "link03",
+            "subcategory": "Children: Infants & Toddlers"
+          },
+          {
+            "id": "link04",
+            "subcategory": "Children: Preschool & Youth"
+          },
+          {
+            "id": "link05",
+            "subcategory": "Children: Preteen & Teen"
+          },
+          {
+            "id": "link06",
+            "subcategory": "Children: Adult"
+          },
+          {
+            "id": "link07",
+            "subcategory": "Family Communication"
+          }
+        ]
+      },
+      {
+        "section": "Family: Caregiving",
+        "links": [
+          {
+            "id": "link01",
+            "subcategory": "Caregiver Care"
+          },
+          {
+            "id": "link02",
+            "subcategory": "Eldercare"
+          }
+        ]
+      },
+      {
+        "section": "Legal, Financial & Retirement",
+        "links": [
+          {
+            "id": "link01",
+            "subcategory": "Consumer Information"
+          },
+          {
+            "id": "link02",
+            "subcategory": "Budgeting"
+          },
+          {
+            "id": "link03",
+            "subcategory": "Financial Fitness"
+          },
+          {
+            "id": "link04",
+            "subcategory": "Credit & Debt"
+          },
+          {
+            "id": "link05",
+            "subcategory": "Legal Issues"
+          },
+          {
+            "id": "link06",
+            "subcategory": "Home Ownership"
+          },
+          {
+            "id": "link07",
+            "subcategory": "Retirement Planning"
+          }
+        ]
+      },
+      {
+        "section": "Safety and Crisis Planning",
+        "links": [
+          {
+            "id": "link01",
+            "subcategory": "Health & Safety"
+          }
+        ]
+      }
+    ]
+  },
+  "Bewell": {},
+  "Workwell": {}
+}
